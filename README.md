@@ -1,0 +1,2 @@
+# anothersmith.github.io
+blog
